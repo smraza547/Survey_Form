@@ -1,2 +1,6 @@
-# Survey_Form
-Survey Form created with HTML and CSS. Practicing for HTML Forms and CSS styling.
+# Survey Form
+##Survey Form created with: 
+ * HTML
+ * CSS. 
+
+_Practicing for HTML Forms and CSS styling._
